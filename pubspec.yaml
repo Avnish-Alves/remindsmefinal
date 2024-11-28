@@ -1,7 +1,5 @@
-name: loc
-description: Free and open-source location-based reminder for Android
-repository: https://github.com/AbdeltwabMF/loc
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+name: Reminddsmefinal
+
 
 version: 0.6.4+64
 
